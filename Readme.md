@@ -38,21 +38,5 @@ To view the project locally:
     ```
 3. Open `index.html` in your web browser.
 
-## Meta Tags
-
-This project includes meta tags to prevent search engines from indexing the site:
-
-```html
-<meta name="robots" content="noindex, nofollow">
-```
-
-## Getting Unflagged
-
-If the project has been flagged for phishing, follow these steps:
-
-1. **Remove or significantly alter any logos, branding, or elements that closely resemble Netflix.**
-2. **Ensure the README and the homepage clearly state the educational purpose of the project.**
-3. **Request a review via Google Search Console or the relevant platform.**
-
 ## Contact
 If you have any questions or suggestions, feel free to open an issue or contact me directly.
